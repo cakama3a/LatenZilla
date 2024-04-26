@@ -4,6 +4,9 @@ LatenZilla
 
 LatenZilla is a Windows executable that measures the latency of a gamepad using a high-speed camera. It provides a precise way to analyze the responsiveness of gamepad inputs by capturing the time difference between the physical button press or joystick movement and the corresponding action on the screen.
 
+Download  
+https://github.com/cakama3a/LatenZilla/tree/main/dist
+
 Features  
 Supports multiple gamepads connected to the system  
 Measures the latency of button presses and joystick movements  
@@ -27,7 +30,7 @@ Follow the on-screen instructions to select the desired gamepad.
 Press buttons or move the joystick on the gamepad to measure the latency.  
 Analyze the latency results displayed on the console.  
 
-How It Works 
+How It Works  
 LatenZilla utilizes the Pygame library to detect and interact with connected gamepads. It continuously polls the gamepad for button presses and joystick movements. When an input event is detected, LatenZilla records the timestamp of the event.
 Simultaneously, the high-speed camera captures the physical action on the gamepad and the corresponding visual feedback on the monitor screen. By analyzing the video footage frame by frame, you can determine the time difference between the physical input and the on-screen response.
 LatenZilla provides real-time feedback on the console, displaying the latency in milliseconds for each button press or joystick movement. This allows you to assess the responsiveness of your gamepad and identify any potential latency issues.

@@ -1,3 +1,5 @@
+<img width="573" alt="LatenZillaScreen" src="https://github.com/cakama3a/LatenZilla/assets/15096106/4dde0613-11df-4295-86b5-05ce8de4bb08">  
+  
 LatenZilla  
 
 LatenZilla is a Windows executable that measures the latency of a gamepad using a high-speed camera. It provides a precise way to analyze the responsiveness of gamepad inputs by capturing the time difference between the physical button press or joystick movement and the corresponding action on the screen.

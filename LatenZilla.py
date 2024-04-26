@@ -1,6 +1,6 @@
-# LatenZilla 1.0.1
 # Speed Camera Latency Tester by John Punch
-version = "1.0.0"
+version = "1.0.2"
+
 print("   ____  _____ ____ _____ _____ _____ ___ ____  ____  _____  ")
 print("  /  _/ /  _  /    /   __/  _  |__   /___/  _/ /  _/ /  _  \ ")
 print("  |  |--|  _  \-  -|   __|  |  |/  _/|   |  |--|  |--|  _  | ")

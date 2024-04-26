@@ -1,11 +1,11 @@
 # Speed Camera Latency Tester by John Punch
-version = "1.0.2"
+version = "1.0.3"
 
 print("   ____  _____ ____ _____ _____ _____ ___ ____  ____  _____  ")
 print("  /  _/ /  _  /    /   __/  _  |__   /___/  _/ /  _/ /  _  \ ")
 print("  |  |--|  _  \-  -|   __|  |  |/  _/|   |  |--|  |--|  _  | ")
-print(f"  \_____\__|__/|__|\_____\__|__/_____\___\_____\_____\__|__/  v. {version}")
-print("     Created by https://www.reddit.com/user/JohnnyPunch")
+print(f"  \_____\__|__/|__|\_____\__|__/_____\___\_____\_____\__|__/")
+print(f"   v. {version}         Support me: https://ko-fi.com/gamepadla")
 print()
 
 import pygame

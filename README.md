@@ -7,6 +7,9 @@ LatenZilla is a Windows executable that measures the latency of a gamepad using 
 Download  
 https://github.com/cakama3a/LatenZilla/tree/main/dist
 
+Support me  
+https://ko-fi.com/gamepadla
+
 Features  
 Supports multiple gamepads connected to the system  
 Measures the latency of button presses and joystick movements  
